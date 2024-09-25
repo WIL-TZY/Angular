@@ -29,7 +29,7 @@ import { TestimonialsComponent } from './components/testimonials/testimonials.co
 	TestimonialsComponent
 	],
 	templateUrl: './app.component.html',
-	styleUrl: '/public/css/style.css', // ./app.component.css
+	styleUrl: './app.component.css',
 })
 export class AppComponent {
 	title = 'Angular!'; 
